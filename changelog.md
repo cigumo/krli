@@ -1,31 +1,31 @@
 # Changelog - Kingdom Rush Origins | PC/Mac/Linux
 
 ## kr3-desktop-0.9.6
-kr3-desktop origin/kr3-desktop kr3: allows a stun to interrupt enemy_satyr_hoplite spawner
-all: allows a stun to interrupt an enemy melee or ranged attack
-fixes cigumo/krli#319 - Prince Denas receives a lethal strike while eating will still die / DarkSide
-fixes cigumo/krli#309 - Vindicated enemy does not produce heal ball. / sunnydaler
-fixes cigumo/krli#301 - Gnome Garen posion damage / sunnydaler
-fixes cigumo/krli#318 - Spider goddess destroys Renegade tower
-fixes cigumo/krli#315 - Spider Goddess misses shots and graphic stays on the ground / Franisz
-fixes cigumo/krli#304 - Drider attack different from mobile / sunnydaler
-fixes cigumo/krli#303 - Drider's poison does not deal damage while the victims are on the move. / sunnydaler
-fixes cigumo/krli#295 - golem's slowdown percentage or the threshold of slowdown is different. / sunnydaler
-fixes cigumo/krli#311 - misfires at range border for Burst and Slumber arrows / sunnydaler
-fixes cigumo/krli#313 - Cuttroat's projectiles are so fast that Eridan cannot dodge when moved / sunnydaler
-kr3: fixes razorboar hurting itself while raging / sunnydaler
-fixes cigumo/krli#298 - perfect parry not working with golem and boomshrooms / sunnydaler
-fixes cigumo/krli#308 - stage 10 poop / sunnydaler
-fixes cigumo/krli#299 - razorboar charging speed slower than mobile / sunnydaler
-fixes cigumo/krli#297 - faustus bolts have blast upgrade with triple damage / sunnydaler
-fixes cigumo/krli#302 - GL mark not working at all / sunnydaler
-fixes cigumo/krli#307 - stage 11 iron gnome decos missing / TomikPlay
-fixes #243 - Sorcerer Stone freeze has the look of a Faery Dragon crystallize. / AerisDraco
+- kr3-desktop origin/kr3-desktop kr3: allows a stun to interrupt enemy_satyr_hoplite spawner
+- all: allows a stun to interrupt an enemy melee or ranged attack
+- fixes cigumo/krli#319 - Prince Denas receives a lethal strike while eating will still die / DarkSide
+- fixes cigumo/krli#309 - Vindicated enemy does not produce heal ball. / sunnydaler
+- fixes cigumo/krli#301 - Gnome Garen posion damage / sunnydaler
+- fixes cigumo/krli#318 - Spider goddess destroys Renegade tower
+- fixes cigumo/krli#315 - Spider Goddess misses shots and graphic stays on the ground / Franisz
+- fixes cigumo/krli#304 - Drider attack different from mobile / sunnydaler
+- fixes cigumo/krli#303 - Drider's poison does not deal damage while the victims are on the move. / sunnydaler
+- fixes cigumo/krli#295 - golem's slowdown percentage or the threshold of slowdown is different. / sunnydaler
+- fixes cigumo/krli#311 - misfires at range border for Burst and Slumber arrows / sunnydaler
+- fixes cigumo/krli#313 - Cuttroat's projectiles are so fast that Eridan cannot dodge when moved / sunnydaler
+- kr3: fixes razorboar hurting itself while raging / sunnydaler
+- fixes cigumo/krli#298 - perfect parry not working with golem and boomshrooms / sunnydaler
+- fixes cigumo/krli#308 - stage 10 poop / sunnydaler
+- fixes cigumo/krli#299 - razorboar charging speed slower than mobile / sunnydaler
+- fixes cigumo/krli#297 - faustus bolts have blast upgrade with triple damage / sunnydaler
+- fixes cigumo/krli#302 - GL mark not working at all / sunnydaler
+- fixes cigumo/krli#307 - stage 11 iron gnome decos missing / TomikPlay
+- fixes #243 - Sorcerer Stone freeze has the look of a Faery Dragon crystallize. / AerisDraco
 
 ## kr3-desktop-0.9.5
-updates achievements and export for gamecenter
-kr3: fixes missing text for faerie dragon harder crystal 2 upgrade
-fixes cigumo/krli#294 - simon game too fast and keeps lit the shroom on failure / sunnydaler
+- updates achievements and export for gamecenter
+- kr3: fixes missing text for faerie dragon harder crystal 2 upgrade
+- fixes cigumo/krli#294 - simon game too fast and keeps lit the shroom on failure / sunnydaler
 
 ## kr3-desktop-0.9.4
 - fixes cigumo/krli#186 - Bladesingers' Edge Mastery cooldown and Perfect Parry chance and sound / sunnydaler
