@@ -1,5 +1,25 @@
 # Changelog - Kingdom Rush Origins | PC/Mac/Linux
 
+## kr3-desktop-1.0.0
+- kr3-desktop: updates credits
+- fixes cigumo/krli#338 - Encyclopedia Tower damage text seems to be small. / AerisDraco
+- fixes cigumo/krli#337 cigumo/krli#333 - vindicator graphic in wrong position / sunnydaler, Oamlair
+- fixes cigumo/krli#289 - Flame is not displayed on Spider Goddess' body after being hit by Fiery Nut / sunnydaler
+- fixes cigumo/krli#135 - Eridan's Hero Spell, Arrow Storm description error / sunnydaler
+- fixes cigumo/krli#121 - wrong damage icon in encyclopedia and hero room / Dri
+- fixes cigumo/krli#112 - golden longbows and arcane archer speed labels / kevin32
+- fixes cigumo/krli#332 - check spider goddess and flying enemies attacks / Franisz
+- fixes cigumo/krli#325 - Grip of Darkness damage is strange / sunnydaler
+- all: adds special case for soldier damage (different rounding)
+- fixes cigumo/krli#102 - level select, iron, shows bomb instead of rock / kevin32
+- kr3: fixes mantaray click rect
+- fixes cigumo/krli#324 - review all special enemy attacks for stun interruptions
+- fixes cigumo/krli#326 - Blessing of Elynie is triggered on Soul Consumption / sunnydaler
+- fixes cigumo/krli#335 - Veznan's demon range shoot prediction issue / sunnydaler
+- kr3: extends tower_wild_magus ward cooldown not to miss modded enemies just before they timeout / sunnydaler
+- fixes cigumo/krli#336 - Edritch Doom does not kill Gloomies and Perythons / sunnydaler
+- fixes cigumo/krli#334 - Bleeding Malicia leaves the blood sprites behind her. / sunnydaler
+
 ## kr3-desktop-0.9.6
 - kr3-desktop origin/kr3-desktop kr3: allows a stun to interrupt enemy_satyr_hoplite spawner
 - all: allows a stun to interrupt an enemy melee or ranged attack
