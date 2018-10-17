@@ -1,5 +1,18 @@
 # Changelog - Kingdom Rush Origins | PC/Mac/Linux
 
+## kr3-desktop-1.0.2
+- fixes cigumo/krli#378 - Catapult bug when killed in stage five / Szynka013
+- fixes cigumo/krli#377 - removes option to have fullscreen + highdpi
+- fixes -log_file
+
+## kr3-desktop-1.0.1
+- kr3-desktop-1.0.1 fixes Kartridge shutdown crash
+- all-desktop/screen_settings: hide retina display if not macOS
+- fixes unload of hero textures
+- removes debug message
+- fixes cigumo/krli#342 - Background map music does not play after winning the main campaign / PitNata
+- kr3-desktop: updates credits
+
 ## kr3-desktop-1.0.0
 - kr3-desktop: updates credits
 - fixes cigumo/krli#338 - Encyclopedia Tower damage text seems to be small. / AerisDraco
